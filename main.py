@@ -12,10 +12,10 @@ from tkinter.filedialog import askopenfilename
 # =========================
 
 # Directory where Workday source Excel files are located
-SOURCE_DIR = r"S:\Cayuse\Costing Allocations\Source"
+SOURCE_DIR = r"TEMP"
 
 # Directory where formatted output files will be written
-OUTPUT_DIR = r"S:\Cayuse\Costing Allocations\Output"
+OUTPUT_DIR = r"TEMP"
 
 
 class OutPutClass:
